@@ -1,0 +1,13 @@
+.vscode
+.idea
+
+__pycache__
+__pycache__/
+
+data/runs
+data/datasets
+
+.ipynb_checkpoints
+
+
+
